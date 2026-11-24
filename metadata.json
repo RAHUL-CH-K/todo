@@ -1,0 +1,6 @@
+{
+  "name": "TaskLedger",
+  "description": "Full-stack Todo application with React, Tailwind CSS, Express REST API, and SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
